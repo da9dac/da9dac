@@ -44,7 +44,9 @@
 <br>
 
 # 📰 Site
-<img src="https://img.shields.io/badge/Blog-F05032?style=for-the-badge&logoColor=white">
+<a href="https://da9dac.tistory.com/">
+    <img src="https://img.shields.io/badge/Blog-F05032?style=for-the-badge&logoColor=white">
+</a>
 
 # 📞 Contact
 <a href="mailto:da9dac@gmail.com">
