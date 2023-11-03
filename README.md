@@ -4,6 +4,8 @@
 
 <br />
 
+<div align="center">
+
 # 😊 About me
 
 💻 **자바**와 **코틀린** 위주의 **백엔드** 개발자입니다.
@@ -52,14 +54,12 @@
 <br />
 
 # 📞 Contact
-<div align="center">
 <a href="mailto:da9dac@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
 </a>
 <a href="https://open.kakao.com/o/sAGTYdQf">
     <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
 </a>
-</div>
 
 <br />
 
@@ -83,3 +83,5 @@
 
 <br />
 <br />
+
+</div>
