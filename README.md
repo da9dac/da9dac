@@ -1,11 +1,10 @@
-<div style="text-align: center;">
 <br />
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=200&section=header&text=Welcome%20to%20da9dac's%20GitHub%20👋&fontSize=40" alt="header">
 
 
 <br />
 
-
+<div style="text-align: center;">
 
 # 😊 About me
 
@@ -49,12 +48,10 @@
 
 # 📞 Contact
 <a href="mailto:da9dac@gmail.com">
-    <img src="https://img.shields.io/badge/
-    Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
 </a>
 <a href="https://open.kakao.com/o/sAGTYdQf">
-    <img src="https://img.shields.io/badge/
-    KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
 </a>
 
 
