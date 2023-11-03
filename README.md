@@ -1,10 +1,9 @@
+<div align="center">
 <br />
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=200&section=header&text=Welcome%20to%20da9dac's%20GitHub%20👋&fontSize=40" alt="header">
 
 
 <br />
-
-<div align="center">
 
 # 😊 About me
 
@@ -19,8 +18,6 @@
 💬 [여기에](https://github.com/da9dac/da9dac/issues) 무엇이든 물어봐 주세요!
 
 <br />
-
-<div></div>
 
 # 💻 Stack
 ### Language
@@ -48,16 +45,12 @@
 <br>
 <br />
 
-<div></div>
-
 # 📰 Site
 <a href="https://da9dac.tistory.com/">
     <img src="https://img.shields.io/badge/Blog-F05032?style=for-the-badge&logoColor=white">
 </a>
 
 <br />
-
-<div></div>
 
 # 📞 Contact
 <a href="mailto:da9dac@gmail.com">
@@ -68,8 +61,6 @@
 </a>
 
 <br />
-
-<div></div>
 
 # PS
 ### BOJ
@@ -82,8 +73,6 @@
 </a>
 
 <br />
-
-<div></div>
 
 # GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=da9dac&layout=compact)
