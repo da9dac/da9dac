@@ -18,6 +18,8 @@
 
 💬 [여기에](https://github.com/da9dac/da9dac/issues) 무엇이든 물어봐 주세요!
 
+<br />
+
 # 💻 Stack
 ### Language
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -42,11 +44,14 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/docker-00599C?style=for-the-badge&logo=docker&logoColor=white">
 <br>
+<br />
 
 # 📰 Site
 <a href="https://da9dac.tistory.com/">
     <img src="https://img.shields.io/badge/Blog-F05032?style=for-the-badge&logoColor=white">
 </a>
+
+<br />
 
 # 📞 Contact
 <a href="mailto:da9dac@gmail.com">
@@ -56,6 +61,7 @@
     <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
 </a>
 
+<br />
 
 # PS
 ### BOJ
@@ -66,6 +72,8 @@
 <a href="https://solved.ac/da9dac">
   <img src="http://mazandi.herokuapp.com/api?handle=da9dac&theme=warm" alt="da9dac 프로필">
 </a>
+
+<br />
 
 # GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=da9dac&layout=compact)
