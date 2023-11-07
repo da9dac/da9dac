@@ -7,7 +7,7 @@
 
 # 😊 About me
 
-💻 **자바**와 **코틀린** 위주의 **백엔드** 개발자입니다.
+💻 **자바** 위주의 **백엔드** 개발자입니다.
 
 🛠 [동영상 강의 플랫폼](https://github.com/da9dac/itPrometheus) 개발 경험이 있습니다.
 
@@ -22,7 +22,7 @@
 # 💻 Stack
 ### Language
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> -->
 <br>
 
 ### DB
