@@ -73,14 +73,6 @@
 </a>
 
 <br />
-
-# GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=da9dac&layout=compact)
-<br />
-<br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=da9dac&show_icons=true)
-
-<br />
 <br />
 
 </div>
